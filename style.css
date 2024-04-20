@@ -1,0 +1,15 @@
+body{background-color: blueviolet;}
+
+.poster{
+    color: black;
+    margin-left: 5%;size: 20px;
+
+}
+
+.bordure {
+border: 5px solid white;
+
+}
+
+h1{ text-align: center;}
+  
